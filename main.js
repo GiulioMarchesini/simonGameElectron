@@ -10,7 +10,7 @@ function createWindow () {
     minWidth: 980,
     minHeight: 680,
     title: 'Simon Game',
-    icon: path.join(__dirname, 'icon/simonGameIcon.jpg')
+    icon: path.join(__dirname, 'icon/simonGameIcon.png')
   })
   mainWindow.setMenuBarVisibility(false)
 
